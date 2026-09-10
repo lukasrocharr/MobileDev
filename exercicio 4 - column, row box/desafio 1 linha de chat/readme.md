@@ -1,3 +1,19 @@
+LINKS 
+
+EXERCICIO 1
+https://github.com/lukasrocharr/MobileDev/tree/main/exercicio%204%20-%20column%2C%20row%20box/desafio%201%20linha%20de%20chat
+
+EXERCICIO 2
+https://github.com/viniciussantos-lx/AtividadeAvaliativa-Exercico2
+
+EXERCICIO 3
+https://github.com/ArturJasb/AtividadeMobile4/blob/main/My%20Application.zip
+
+
+
+
+
+
 Nome: Lukas Rocha; RA: 218371
 ADS 5 semestre
 09/09/26
